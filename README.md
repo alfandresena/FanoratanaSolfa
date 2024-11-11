@@ -7,7 +7,7 @@ Contrairement à l'utilisation d'Excel, qui peut être compliquée pour la mise 
 
 ## Prérequis
 
-Avant de commencer à utiliser l'application, vous devez d'abord télécharger le fichier **.exe** de l'application. Vous pouvez le trouver dans la section des **Releases** de ce dépôt GitHub.
+Avant de commencer à utiliser l'application, vous devez d'abord télécharger les fichier ci dessous avec le fichier **.exe** de l'application. Vous pouvez le trouver dans la section des **Releases** de ce dépôt GitHub.
 
 ### Installation de Java
 
